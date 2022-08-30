@@ -2,6 +2,8 @@
 
 ## Problem Statement
 
+Predict employee salaries based on different factors
+
 `How will the company profit from this solution?`
 1. Companies can keep track of their finance while paying salaries to employees.
 2. Companies can understand what factors affects their finance. E.g. location, employee experience, education qualification, etc.
